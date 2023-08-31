@@ -1,0 +1,7 @@
+-------------MENU FOR PATIENTS------------
+ADD NEW PATIENT --> N
+DELETE PATIENT --> D
+SERIALIZE --> S
+VIEW ALL --> V
+------------------------------------------
+

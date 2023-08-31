@@ -1,0 +1,7 @@
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\bin\Debug\Assesment-1.exe.config
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\bin\Debug\Assesment-1.exe
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\bin\Debug\Assesment-1.pdb
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\obj\Debug\Assesment-1.csproj.AssemblyReference.cache
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\obj\Debug\Assesment-1.csproj.CoreCompileInputs.cache
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\obj\Debug\Assesment-1.exe
+C:\Users\pkumarpadhiary\source\repos\Assesment-1\obj\Debug\Assesment-1.pdb
